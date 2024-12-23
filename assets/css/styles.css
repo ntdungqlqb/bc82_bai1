@@ -1,0 +1,43 @@
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.title {
+    background-color: red;
+    color: white;
+}
+
+.navbar__list {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.navbar__item {
+    font-size: 20px;
+}
+
+.main__img {
+    width: 50%;
+}
+
+.intro,
+.development {
+    padding: 20px;
+    background-color: brown;
+    color: white;
+}
+
+.heading {
+    font-size: 40px;
+    text-align: center;
+}
+
+.desc {
+    font-size: 30px;
+    color: white;
+}
+
+.development {
+    margin-top: 20px;
+}
