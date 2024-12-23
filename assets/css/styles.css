@@ -41,3 +41,18 @@
 .development {
     margin-top: 20px;
 }
+
+.news {
+    background-color: grey;
+}
+
+.news-inner {
+    background-color: white;
+    padding: 20px;
+    font-size: 20px;
+    margin: 10px 500px;
+}
+
+.heading-intro {
+    color: brown;
+}
